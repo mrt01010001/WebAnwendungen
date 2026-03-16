@@ -2,5 +2,8 @@
 
 todo …
 
-Thorben war hier
+Who is who?
+
+Frontend Team: 
+Backend Team: Thorben
 
